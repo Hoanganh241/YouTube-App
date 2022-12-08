@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">YoutubeChannel Java</string>
+    <string name="app_name">YoutubeChannel Hoang Anh</string>
 
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
 
@@ -48,8 +48,8 @@
     <string name="lbl_support_twitter">Twitter</string>
 
     // About us
-    <string name="about_title">TinCoder</string>
-    <string name="channel_name">TinCoder Android Java</string>
+    <string name="about_title">Hoang Anh</string>
+    <string name="channel_name">Hoang Anh Android Java</string>
     <string name="about_content">Provides Android, iOS, Web Source Codes and Development Services. Highly Committed to Quality Products and Excellent Services.</string>
     <string name="label_contact_us">Contact us:</string>
     <string name="label_facebook">Facebook</string>

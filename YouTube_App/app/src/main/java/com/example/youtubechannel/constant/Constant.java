@@ -21,7 +21,7 @@ public interface Constant {
     String SKYPE_ID = "dangtin29932";
     String ZALO_LINK = "https://zalo.me/0392229676";
 
-    String VALUE_CHANNEL_ID = "UCu3DXfXYgygIYXN8TduNcNQ";
+    String VALUE_CHANNEL_ID = "UCNeFntr5Y7Xc1GKYuMg8suQ";
     String VALUE_KEY = "AIzaSyBGx4TkkZCuBb54ZmRGeiP0p4_aGOJmuSk";
     int VALUE_MAX_RESULTS_PLAYLIST = 8;
     int VALUE_MAX_RESULTS_LATEST_VIDEO = 8;
